@@ -3,9 +3,9 @@ from numpy import *
 import numpy as np
 import cv2
 
-save_path = 'step5/'
-u = 1433
-v = 635
+save_path = 'step6/'
+u = 1472
+v = 649
 pts = loadtxt(save_path + "xy_alongWall.txt",dtype = int)
 print(pts)
 src_pts = pts[:,:2]

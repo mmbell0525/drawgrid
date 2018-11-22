@@ -5,9 +5,9 @@ import cv2
 # from sys import argv
 
 # a,b,c = argv
-save_path = 'step5/'
-u = 1433
-v = 635
+save_path = 'step6/'
+u = 1472
+v = 649
 pts = loadtxt(save_path + "xy_grid.txt",dtype = int)
 print(len(pts))
 src_pts = pts[:,:2]
