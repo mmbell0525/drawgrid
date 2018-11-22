@@ -5,7 +5,7 @@ import cv2
 # from sys import argv
 
 # a,b,c = argv
-save_path = 'step4/'
+save_path = 'step5/'
 u = 1433
 v = 635
 pts = loadtxt(save_path + "xy_grid.txt",dtype = int)
