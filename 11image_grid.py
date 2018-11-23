@@ -6,8 +6,8 @@ import cv2
 
 # a,b,c = argv
 save_path = 'step6/'
-u = 1472
-v = 649
+u = 1469
+v = 652
 pts = loadtxt(save_path + "xy_grid.txt",dtype = int)
 print(len(pts))
 src_pts = pts[:,:2]
