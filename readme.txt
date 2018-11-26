@@ -1,2 +1,3 @@
-step1  ¿´ÉúÍ¼µÄ±ÈÀı³ß px:cm
-step2  ÔÚ1:1 fixedImg.jpgÉÏÕÒÔ­µãµÄ(u,v)
+step1  çœ‹ç”Ÿå›¾çš„æ¯”ä¾‹å°º px:cm
+step2  åœ¨1:1 fixedImg.jpgä¸Šæ‰¾åŸç‚¹çš„(u,v)
+that's all.
